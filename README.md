@@ -19,6 +19,7 @@ Les objectifs de ce laboratoire sont de:
    - Vérifier que les tests unitaires passent toujours;
    - Ajouter un test unitaire (si cela est justifié);
    - Committer votre changement et ajouter un message justifiant le changement ("bad smell" identifié, description du changement, code impacté, etc.);
+   PS. Faire une correction par commit.
    - Pousser votre changement sur github;
    - Vérifier que l'action github a bien été exécutée et que les tests unitaires passent;
    - Merger votre branche dans la branche `main`;
